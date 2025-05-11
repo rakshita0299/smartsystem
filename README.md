@@ -21,10 +21,10 @@ It uses:
 ---
 
 ## Folder Structure
-├── app.py # Main backend logic (Flask server + agent routing)
-├── index.html # Simple front-end UI
-├── docs/ # Folder for your reference documents (txt files)
-├── .env # Environment file containing your API key
+1.app.py# Main backend logic (Flask server + agent routing)
+2. index.html # Simple front-end UI
+3. docs/ # Folder for your reference documents (txt files)
+4. .env # Environment file containing your API key
 
 
 ---
