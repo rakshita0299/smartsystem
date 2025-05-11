@@ -20,15 +20,6 @@ It uses:
 
 ---
 
-## Folder Structure
-1.app.py# Main backend logic (Flask server + agent routing)
-2. index.html # Simple front-end UI
-3. docs/ # Folder for your reference documents (txt files)
-4. .env # Environment file containing your API key
-
-
----
-
 ## 💡 How It Works
 
 1. You add text files to the `docs/` folder
